@@ -114,6 +114,7 @@ module StripeMock
         discount: nil,
         account_balance: 0,
         currency: nil,
+        metadata: {},
         sources: {
           object: "list",
           total_count: sources.size,
